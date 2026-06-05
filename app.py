@@ -74,10 +74,44 @@ if uploaded_files:
         st.success(f"Successfully processed {len(results_data)} files.")
         
         if results_data:
-            st.subheader("Batch Extraction Results")
-            
-            # Create DataFrame
+            st.subheader("Categorization Report")
             df = pd.DataFrame(results_data)
+            
+            # Count categories
+            category_counts = df['category'].value_counts()
+            
+            col_chart, col_report = st.columns([1, 2])
+            
+            with col_chart:
+                st.write("**Category Breakdown**")
+                st.bar_chart(category_counts)
+                
+            with col_report:
+                # Generate Text Report
+                report_lines = ["# Hector AI Categorization Report\n"]
+                report_lines.append(f"**Total Files Processed:** {len(results_data)}\n")
+                report_lines.append("### Category Breakdown:")
+                for cat, count in category_counts.items():
+                    report_lines.append(f"- **{cat}**: {count} file(s)")
+                    
+                report_lines.append("\n### File Details:")
+                for data in results_data:
+                    report_lines.append(f"- `{data['filename']}` ➡️ **{data['category']}**")
+                    
+                report_text = "\n".join(report_lines)
+                
+                with st.expander("View Full Report Details", expanded=True):
+                    st.markdown(report_text)
+                    
+                st.download_button(
+                    label="Download Categorization Report (.md)",
+                    data=report_text,
+                    file_name="categorization_report.md",
+                    mime="text/markdown"
+                )
+
+            st.divider()
+            st.subheader("Raw Batch Extraction Data")
             
             # Reorder columns to put filename first
             cols = ['filename'] + [c for c in df.columns if c != 'filename']
@@ -88,7 +122,7 @@ if uploaded_files:
             # CSV Export
             csv = df.to_csv(index=False).encode('utf-8')
             st.download_button(
-                label="Download Combined Results as CSV",
+                label="Download Raw Data as CSV",
                 data=csv,
                 file_name='hector_batch_results.csv',
                 mime='text/csv',
