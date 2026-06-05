@@ -1,0 +1,20 @@
+{
+  "category": "DP",
+  "incident_date": "2026-01-15",
+  "description": "The insured vehicle, a 2019 black Toyota Rav4 (plate G-901234), was traveling on Expreso V Centenario when it collided with the rear of a 2018 Nissan Versa (plate H-345678) driven by Mr. Juan Peralta, who braked abruptly. The impact caused significant damage to the front of the insured vehicle, including a shattered and detached front bumper assembly, a cracked and broken grille, a dented and bent hood, cracked headlights with broken mounts, a punctured and bent radiator and support, and a minor dent with paint abrasion on the left front fender. No serious injuries were reported, but both drivers complained of minor neck stiffness. A police report (PN-SDQ-2026-011501) was filed. The estimated repair cost for the damages is DOP 198,000.",
+  "judicial_claim_present": false,
+  "probability_of_judicialization": 0.1,
+  "involved_parties": [
+    {
+      "name": "Mar\u00eda Fernanda Guzm\u00e1n Pe\u00f1a",
+      "role": "Insured",
+      "vehicle_info": "Toyota Rav4, License Plate G-901234"
+    },
+    {
+      "name": "Juan Peralta",
+      "role": "Third-Party Driver",
+      "vehicle_info": "2018 Nissan Versa, License Plate H-345678"
+    }
+  ],
+  "total_estimated_amount": 198000.0
+}

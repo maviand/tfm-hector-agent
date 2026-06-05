@@ -1,0 +1,30 @@
+{
+  "category": "DP",
+  "incident_date": "2026-06-10",
+  "description": "The insured vehicle, a Hyundai Elantra, was stopped at a red light at the intersection of Av. Lope de Vega and Calle Rafael Augusto S\u00e1nchez when it was struck from behind by a 2017 Toyota Camry. The impact caused significant damage to the rear bumper, trunk lid, and rear passenger side. The insured experienced minor whiplash but declined further medical attention. The National Police filed a report. The vehicle was towed to Taller Express. Damages include: Rear bumper assembly (complete replacement required \u2013 cracked and detached), Trunk lid (heavily dented, alignment issue \u2013 replacement required), Rear right fender (minor dent, paint abraded \u2013 repair and repaint), Rear panel (minor crumpling, alignment required \u2013 structural repair), Exhaust system (displaced and bent \u2013 replacement), Rear left taillight (cracked lens \u2013 replacement).",
+  "judicial_claim_present": false,
+  "probability_of_judicialization": 0.1,
+  "involved_parties": [
+    {
+      "name": "Ana Sof\u00eda P\u00e9rez Liriano",
+      "role": "Insured",
+      "vehicle_info": "Hyundai Elantra, B-765432"
+    },
+    {
+      "name": "Mr. Manuel G\u00f3mez",
+      "role": "Third-Party Driver",
+      "vehicle_info": "2017 Toyota Camry, C-456789"
+    },
+    {
+      "name": "National Police",
+      "role": "Police",
+      "vehicle_info": null
+    },
+    {
+      "name": null,
+      "role": "Medical Personnel",
+      "vehicle_info": null
+    }
+  ],
+  "total_estimated_amount": 208750.0
+}

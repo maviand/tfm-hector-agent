@@ -1,0 +1,110 @@
+MOTOR INSURANCE CLAIM FORM
+Claim No.: DP-2026-001904
+Type: DP OWN DAMAGE
+STATUS: PENDING REVIEW
+OWN DAMAGE
+Insurer: Seguros Meridiano, S.A.
+1. POLICYHOLDER INFORMATION
+Full Name:
+ID / Cédula:
+Date of Birth:
+Address:
+Phone:
+Email:
+Policy Number:
+Policy Start:
+Policy End:
+Coverage Type:
+Deductible:
+2. INSURED VEHICLE
+Make / Model:
+Year:
+Color:
+License Plate:
+VIN / Chassis:
+Engine No.:
+Declared Value:
+Odometer (at loss):
+3. INCIDENT DETAILS
+Incident Date:
+Incident Time:
+Location:
+Road Condition:
+Weather:
+José Antonio Rodríguez Díaz
+005-1122334-5
+July 10, 1980
+Calle Gustavo Mejía Ricart 30, Ens. Naco, Santo Domingo, D.N.
++1 (809) 222-1111
+jose.rodriguez@email.com
+POL-SDQ-2025-120102
+February 1, 2025
+January 31, 2026
+Comprehensive (All-Risk)
+DOP 25,000
+Honda CR-V
+2022
+Blue
+I-567890
+JHMRE4H95NC000123
+K24W-4567890
+DOP 2,000,000
+28,900 km
+December 5, 2025
+04:00 PM
+Av. Tiradentes, intersection with Av. Kennedy, Santo Domingo
+Dry, high traffic
+Overcast
+Police Report No.:
+Report Date:
+4. INCIDENT NARRATIVE
+PN-SDQ-2025-120501
+December 5, 2025
+The insured vehicle was proceeding through the intersection of Av. Tiradentes and Av. Kennedy on a green light when it was
+T-boned on the passenger side by a 2016 Ford Escape (plate J-123456) driven by Ms. Sofía Castro, who ran the red light. The
+impact caused severe damage to the front and rear passenger doors, B-pillar, and front fender on the passenger side. The
+insured driver sustained minor bruises and was checked at the scene. Ms. Castro was uninjured. The National Police (Policía
+Nacional) responded and filed a comprehensive accident report, citing Ms. Castro for traffic violations. The vehicle was towed
+to Centro de Reparación Automotriz.
+5. DAMAGE ASSESSMENT
+Part / Component
+Front passenger door
+Rear passenger door
+B-pillar
+Front right fender
+Side mirror (right)
+Rocker panel (right)
+Labor (body & paint)
+TOTAL ESTIMATE
+Damage Description
+Heavily crushed, mechanism damaged — replacement
+Severely dented, alignment issue — replacement
+Bent, structural repair required — major repair
+Bent, paint damaged — replacement
+Shattered — replacement
+Dent and scuffing — repair and repaint
+Approx. 40 man-hours @ DOP 1000/hr
+Est. Repair Cost (DOP)
+65,000
+60,000
+80,000
+30,000
+10,000
+20,000
+40,000
+305,000
+6. DOCUMENTS SUBMITTED
+■ Copy of vehicle registration (marbete) — current year
+■ Copy of policyholder national ID (cédula)
+■ Copy of driver's license (current)
+■ Police report No. PN-SDQ-2025-120501
+■ Workshop repair estimate — Centro de Reparación Automotriz
+■ 8 photographs of vehicle damage (passenger side)
+■ Tow truck receipt — Remolques Seguros
+7. DECLARATION
+I, José Antonio Rodríguez Díaz, hereby declare that all information provided in this claim form is truthful and complete
+to the best of my knowledge. I understand that any misrepresentation may result in denial of the claim and
+termination of the insurance policy.
+Policyholder Signature
+Date
+Adjuster Signature

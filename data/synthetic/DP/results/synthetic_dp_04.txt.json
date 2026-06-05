@@ -1,0 +1,35 @@
+{
+  "category": "DP",
+  "incident_date": "2025-12-05",
+  "description": "The insured vehicle, a 2022 Blue Honda CR-V (plate I-567890), driven by Jos\u00e9 Antonio Rodr\u00edguez D\u00edaz, was T-boned on the passenger side by a 2016 Ford Escape (plate J-123456) driven by Ms. Sof\u00eda Castro. The incident occurred on December 5, 2025, at 04:00 PM at the intersection of Av. Tiradentes and Av. Kennedy, Santo Domingo. The insured vehicle was proceeding on a green light, while Ms. Castro ran a red light. The impact caused severe damage to the front and rear passenger doors (heavily crushed, mechanism damaged, severely dented, alignment issue), B-pillar (bent, structural repair required), front right fender (bent, paint damaged), shattered right side mirror, and dented/scuffed right rocker panel. The insured driver sustained minor bruises and was checked at the scene. Ms. Castro was uninjured. The National Police responded, filed report PN-SDQ-2025-120501, and cited Ms. Castro for traffic violations. The vehicle was towed to Centro de Reparaci\u00f3n Automotriz. Eight photographs of the damage were submitted. The total estimated repair cost is DOP 305,000.",
+  "judicial_claim_present": false,
+  "probability_of_judicialization": 0.5,
+  "involved_parties": [
+    {
+      "name": "Jos\u00e9 Antonio Rodr\u00edguez D\u00edaz",
+      "role": "Insured",
+      "vehicle_info": "Honda CR-V, I-567890"
+    },
+    {
+      "name": "Sof\u00eda Castro",
+      "role": "Third-Party Driver",
+      "vehicle_info": "2016 Ford Escape, J-123456"
+    },
+    {
+      "name": null,
+      "role": "Police/Investigator",
+      "vehicle_info": null
+    },
+    {
+      "name": "Centro de Reparaci\u00f3n Automotriz",
+      "role": "Repair Shop",
+      "vehicle_info": null
+    },
+    {
+      "name": "Remolques Seguros",
+      "role": "Tow Truck Service",
+      "vehicle_info": null
+    }
+  ],
+  "total_estimated_amount": 305000.0
+}

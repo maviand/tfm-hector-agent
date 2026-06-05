@@ -1,0 +1,105 @@
+MOTOR INSURANCE CLAIM FORM
+Claim No.: DP-2026-001909
+Type: DP OWN DAMAGE
+STATUS: PENDING REVIEW
+OWN DAMAGE
+Insurer: Seguros Meridiano, S.A.
+1. POLICYHOLDER INFORMATION
+Full Name:
+ID / Cédula:
+Date of Birth:
+Address:
+Phone:
+Email:
+Policy Number:
+Policy Start:
+Policy End:
+Coverage Type:
+Deductible:
+2. INSURED VEHICLE
+Make / Model:
+Year:
+Color:
+License Plate:
+VIN / Chassis:
+Engine No.:
+Declared Value:
+Odometer (at loss):
+3. INCIDENT DETAILS
+Incident Date:
+Incident Time:
+Location:
+Road Condition:
+Weather:
+Carolina Estefanía Méndez Rosario
+010-8901234-5
+March 28, 1990
+Av. Winston Churchill 100, Ens. Evaristo Morales, Santo Domingo, D.N.
++1 (809) 111-2222
+carolina.mendez@email.com
+POL-SDQ-2025-050607
+July 1, 2025
+June 30, 2026
+Comprehensive (All-Risk)
+DOP 20,000
+Volkswagen Jetta
+2022
+White
+P-012345
+3VW2N7AM8N1000012
+DED-3456789
+DOP 1,300,000
+24,600 km
+November 1, 2026
+10:30 AM
+Autopista Las Américas, near Caucedo Port exit, Santo Domingo Este
+Dry, loose gravel on shoulder
+Sunny
+Police Report No.:
+Report Date:
+4. INCIDENT NARRATIVE
+PN-SDQ-2026-110101
+November 1, 2026
+The insured vehicle was traveling on Autopista Las Américas when a construction vehicle ahead suddenly lost some debris. To
+avoid impact with the debris, the driver swerved sharply to the left, causing the vehicle to scrape against the concrete guardrail
+along the median. The impact primarily affected the entire left side of the vehicle, including the front fender, driver's door, and
+rear door. The driver was uninjured. The National Police (Policía Nacional) was called to the scene and filed a report. The
+vehicle was driven to Taller Automotriz del Este.
+5. DAMAGE ASSESSMENT
+Part / Component
+Front left fender
+Driver's door
+Rear left door
+Side mirror (left)
+Rocker panel (left)
+Labor (body & paint)
+TOTAL ESTIMATE
+Damage Description
+Deep scrapes, minor dent — repair and repaint
+Extensive scrapes, dented — repair and repaint
+Scraped, paint chipped — repair and repaint
+Scuffed, cracked housing — replacement
+Deep scrapes — repair and repaint
+Approx. 30 man-hours @ DOP 980/hr
+Est. Repair Cost (DOP)
+25,000
+35,000
+30,000
+8,000
+18,000
+29,400
+145,400
+6. DOCUMENTS SUBMITTED
+■ Copy of vehicle registration (marbete) — current year
+■ Copy of policyholder national ID (cédula)
+■ Copy of driver's license (current)
+■ Police report No. PN-SDQ-2026-110101
+■ Workshop repair estimate — Taller Automotriz del Este
+■ 7 photographs of vehicle damage (entire left side)
+7. DECLARATION
+I, Carolina Estefanía Méndez Rosario, hereby declare that all information provided in this claim form is truthful and complete
+to the best of my knowledge. I understand that any misrepresentation may result in denial of the claim and
+termination of the insurance policy.
+Policyholder Signature
+Date
+Adjuster Signature

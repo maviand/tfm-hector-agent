@@ -1,0 +1,20 @@
+{
+  "category": "DP",
+  "incident_date": "2026-08-22",
+  "description": "The insured vehicle, a 2021 white Kia Sportage (plate E-123456), was backing out of a parking space in the Supermercado Nacional lot when it collided with a parked 2015 Honda Civic (plate F-789012) owned by Ms. Laura Pe\u00f1a. The incident occurred on August 22, 2026, at 02:15 PM. No injuries were sustained by either party, and police were not called as it was a minor incident on private property where parties exchanged information. The impact caused damage to the insured vehicle, specifically: the rear bumper corner (right) is cracked and scuffed, requiring repair and repaint; the rear right taillight has a cracked lens and needs replacement; and there are minor paint scuffs on the rear requiring touch-up.",
+  "judicial_claim_present": false,
+  "probability_of_judicialization": 0.0,
+  "involved_parties": [
+    {
+      "name": "Roberto Carlos Dur\u00e1n M\u00e9ndez",
+      "role": "Insured",
+      "vehicle_info": "Kia Sportage, 2021, White, E-123456"
+    },
+    {
+      "name": "Laura Pe\u00f1a",
+      "role": "Third-Party Vehicle Owner",
+      "vehicle_info": "Honda Civic, 2015, F-789012"
+    }
+  ],
+  "total_estimated_amount": 42500.0
+}

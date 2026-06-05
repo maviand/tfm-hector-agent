@@ -1,0 +1,106 @@
+MOTOR INSURANCE CLAIM FORM
+Claim No.: DP-2026-001905
+Type: DP OWN DAMAGE
+STATUS: PENDING REVIEW
+OWN DAMAGE
+Insurer: Seguros Meridiano, S.A.
+1. POLICYHOLDER INFORMATION
+Full Name:
+ID / Cédula:
+Date of Birth:
+Address:
+Phone:
+Email:
+Policy Number:
+Policy Start:
+Policy End:
+Coverage Type:
+Deductible:
+2. INSURED VEHICLE
+Make / Model:
+Year:
+Color:
+License Plate:
+VIN / Chassis:
+Engine No.:
+Declared Value:
+Odometer (at loss):
+3. INCIDENT DETAILS
+Incident Date:
+Incident Time:
+Location:
+Road Condition:
+Weather:
+Laura Patricia Tejeda Rivas
+006-5432109-8
+November 11, 1993
+Carretera Juan Pablo II, km 25, Samaná
++1 (809) 666-3333
+laura.tejeda@email.com
+POL-SDQ-2025-070809
+September 1, 2025
+August 31, 2026
+Comprehensive (All-Risk)
+DOP 18,000
+Nissan Kicks
+2023
+Red
+K-789012
+3N1BP5AL3PL987654
+HR16-1234567
+DOP 1,400,000
+19,500 km
+October 20, 2026
+09:10 PM
+Carretera Sánchez, near Las Charcas, Azua
+Wet, poor visibility
+Heavy Rain
+Police Report No.:
+Report Date:
+4. INCIDENT NARRATIVE
+PN-AZU-2026-102001
+October 20, 2026
+The insured vehicle was traveling on Carretera Sánchez during heavy rain when an animal (reportedly a large dog) suddenly
+darted into the road. To avoid a direct collision, the driver swerved sharply, losing control briefly on the wet surface. The
+vehicle then collided with a small tree on the roadside. The impact caused significant damage to the front bumper, right front
+fender, and headlight. The driver sustained minor bruises from the seatbelt but was otherwise uninjured. Local police
+(Policía Nacional, Azua) responded and filed a report. The vehicle was towed to Taller General del Sur.
+5. DAMAGE ASSESSMENT
+Part / Component
+Front bumper cover
+Front right fender
+Right headlight assembly
+Hood edge
+Right front wheel alignment
+Labor (body & paint)
+TOTAL ESTIMATE
+Damage Description
+Shattered, detached — replacement required
+Crushed, bent — replacement
+Broken, non-functional — replacement
+Minor dent, paint chipped — repair and repaint
+Impacted, needs adjustment — realignment
+Approx. 28 man-hours @ DOP 920/hr
+Est. Repair Cost (DOP)
+30,000
+28,000
+18,000
+12,000
+10,000
+25,760
+123,760
+6. DOCUMENTS SUBMITTED
+■ Copy of vehicle registration (marbete) — current year
+■ Copy of policyholder national ID (cédula)
+■ Copy of driver's license (current)
+■ Police report No. PN-AZU-2026-102001
+■ Workshop repair estimate — Taller General del Sur
+■ 5 photographs of vehicle damage (front and right side)
+■ Tow truck receipt — Remolques Azua
+7. DECLARATION
+I, Laura Patricia Tejeda Rivas, hereby declare that all information provided in this claim form is truthful and complete
+to the best of my knowledge. I understand that any misrepresentation may result in denial of the claim and
+termination of the insurance policy.
+Policyholder Signature
+Date
+Adjuster Signature

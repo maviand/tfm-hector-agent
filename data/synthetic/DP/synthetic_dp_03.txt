@@ -1,0 +1,109 @@
+MOTOR INSURANCE CLAIM FORM
+Claim No.: DP-2026-001903
+Type: DP OWN DAMAGE
+STATUS: PENDING REVIEW
+OWN DAMAGE
+Insurer: Seguros Meridiano, S.A.
+1. POLICYHOLDER INFORMATION
+Full Name:
+ID / Cédula:
+Date of Birth:
+Address:
+Phone:
+Email:
+Policy Number:
+Policy Start:
+Policy End:
+Coverage Type:
+Deductible:
+2. INSURED VEHICLE
+Make / Model:
+Year:
+Color:
+License Plate:
+VIN / Chassis:
+Engine No.:
+Declared Value:
+Odometer (at loss):
+3. INCIDENT DETAILS
+Incident Date:
+Incident Time:
+Location:
+Road Condition:
+Weather:
+María Fernanda Guzmán Peña
+004-9876543-2
+December 1, 1991
+Av. Abraham Lincoln 505, Piantini, Santo Domingo, D.N.
++1 (809) 777-9000
+maria.guzman@email.com
+POL-SDQ-2025-091011
+March 1, 2025
+February 28, 2026
+Comprehensive (All-Risk)
+DOP 15,000
+Toyota Rav4
+2019
+Black
+G-901234
+JTMDJ1CE0K1234567
+2AR-7890123
+DOP 1,600,000
+65,800 km
+January 15, 2026
+08:45 AM
+Expreso V Centenario, near Av. Duarte exit, Santo Domingo
+Dry, heavy traffic
+Sunny
+Police Report No.:
+Report Date:
+4. INCIDENT NARRATIVE
+PN-SDQ-2026-011501
+January 15, 2026
+The insured vehicle was traveling on Expreso V Centenario in heavy traffic when the vehicle in front, a 2018 Nissan Versa
+(plate H-345678) driven by Mr. Juan Peralta, braked abruptly. Despite attempting to brake, the insured vehicle collided with
+its rear. The impact caused significant damage to the front bumper, grille, and hood of the insured vehicle. No serious injuries
+were reported by either driver, but both complained of minor neck stiffness. The National Police (Policía Nacional) was called
+and completed an accident report. The vehicle was towed to AutoServicio del Caribe.
+5. DAMAGE ASSESSMENT
+Part / Component
+Front bumper assembly
+Grille
+Hood
+Headlights (both)
+Radiator and support
+Fender (left front)
+Labor (body & paint)
+TOTAL ESTIMATE
+Damage Description
+Shattered, detached — replacement required
+Cracked and broken — replacement
+Dented, bent — replacement
+Cracked, broken mounts — replacement
+Punctured, bent — replacement
+Minor dent, paint abraded — repair and repaint
+Approx. 30 man-hours @ DOP 900/hr
+Est. Repair Cost (DOP)
+35,000
+18,000
+45,000
+30,000
+28,000
+15,000
+27,000
+198,000
+6. DOCUMENTS SUBMITTED
+■ Copy of vehicle registration (marbete) — current year
+■ Copy of policyholder national ID (cédula)
+■ Copy of driver's license (current)
+■ Police report No. PN-SDQ-2026-011501
+■ Workshop repair estimate — AutoServicio del Caribe
+■ 6 photographs of vehicle damage (front section)
+■ Tow truck receipt — Asistencia Vial Rápida
+7. DECLARATION
+I, María Fernanda Guzmán Peña, hereby declare that all information provided in this claim form is truthful and complete
+to the best of my knowledge. I understand that any misrepresentation may result in denial of the claim and
+termination of the insurance policy.
+Policyholder Signature
+Date
+Adjuster Signature

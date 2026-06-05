@@ -1,0 +1,103 @@
+MOTOR INSURANCE CLAIM FORM
+Claim No.: DP-2026-001910
+Type: DP OWN DAMAGE
+STATUS: PENDING REVIEW
+OWN DAMAGE
+Insurer: Seguros Meridiano, S.A.
+1. POLICYHOLDER INFORMATION
+Full Name:
+ID / Cédula:
+Date of Birth:
+Address:
+Phone:
+Email:
+Policy Number:
+Policy Start:
+Policy End:
+Coverage Type:
+Deductible:
+2. INSURED VEHICLE
+Make / Model:
+Year:
+Color:
+License Plate:
+VIN / Chassis:
+Engine No.:
+Declared Value:
+Odometer (at loss):
+3. INCIDENT DETAILS
+Incident Date:
+Incident Time:
+Location:
+Road Condition:
+Weather:
+Eduardo José Santana Polanco
+011-5566778-9
+February 14, 1987
+Av. Cayetano Germosén 80, Urb. Fernández, Santo Domingo, D.N.
++1 (809) 333-5555
+eduardo.santana@email.com
+POL-SDQ-2025-080910
+November 1, 2025
+October 31, 2026
+Comprehensive (All-Risk)
+DOP 12,000
+Subaru Forester
+2023
+Green
+R-234567
+JF2SKADC5P1000012
+FB25-9012345
+DOP 1,700,000
+15,000 km
+December 29, 2025
+05:15 PM
+Av. Núñez de Cáceres, near Av. Rómulo Betancourt, Santo Domingo
+Dry, congested traffic
+Cloudy
+Police Report No.:
+Report Date:
+4. INCIDENT NARRATIVE
+PN-SDQ-2025-122901
+December 29, 2025
+The insured vehicle was involved in a low-speed chain reaction collision during rush hour traffic on Av. Núñez de Cáceres. The
+vehicle in front (2019 Hyundai Tucson, plate S-890123) braked suddenly, and the insured vehicle made light contact. Immediately
+after, the insured vehicle was lightly impacted from behind by a 2020 Toyota Yaris (plate T-456789). The incident caused minor
+damage to both the front and rear bumpers of the insured vehicle. No injuries were reported by any party. The National Police
+(Policía Nacional) responded to manage the traffic and filed a multi-vehicle report. The vehicle was driven to Auto Repuestos
+y Taller.
+5. DAMAGE ASSESSMENT
+Part / Component
+Front bumper cover
+Rear bumper cover
+Front grille
+Paint scuffs (front & rear)
+Labor (body & paint)
+TOTAL ESTIMATE
+Damage Description
+Minor cracks, scuffs — repair and repaint
+Minor deformation, scratches — repair and repaint
+Minor cracks — repair
+Surface scratches — touch-up
+Approx. 15 man-hours @ DOP 870/hr
+Est. Repair Cost (DOP)
+22,000
+20,000
+8,000
+6,000
+13,050
+69,050
+6. DOCUMENTS SUBMITTED
+■ Copy of vehicle registration (marbete) — current year
+■ Copy of policyholder national ID (cédula)
+■ Copy of driver's license (current)
+■ Police report No. PN-SDQ-2025-122901
+■ Workshop repair estimate — Auto Repuestos y Taller
+■ 4 photographs of vehicle damage (front and rear)
+7. DECLARATION
+I, Eduardo José Santana Polanco, hereby declare that all information provided in this claim form is truthful and complete
+to the best of my knowledge. I understand that any misrepresentation may result in denial of the claim and
+termination of the insurance policy.
+Policyholder Signature
+Date
+Adjuster Signature

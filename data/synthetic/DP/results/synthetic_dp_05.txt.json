@@ -1,0 +1,15 @@
+{
+  "category": "DP",
+  "incident_date": "2026-10-20",
+  "description": "The insured vehicle, a Nissan Kicks (License Plate K-789012), was traveling on Carretera S\u00e1nchez during heavy rain when a large dog suddenly darted into the road. To avoid a direct collision, the driver swerved sharply, losing control on the wet surface and colliding with a small tree on the roadside. The impact caused significant damage to the front bumper, right front fender, and headlight. The driver sustained minor bruises. Local police (Polic\u00eda Nacional, Azua) responded and filed report PN-AZU-2026-102001. The vehicle was towed to Taller General del Sur. Damages include: Front bumper cover shattered and detached, requiring replacement; Front right fender crushed and bent, requiring replacement; Right headlight assembly broken and non-functional, requiring replacement; Hood edge with minor dent and chipped paint, requiring repair and repaint; Right front wheel alignment impacted, needing adjustment.",
+  "judicial_claim_present": false,
+  "probability_of_judicialization": 0.0,
+  "involved_parties": [
+    {
+      "name": "Laura Patricia Tejeda Rivas",
+      "role": "Insured",
+      "vehicle_info": "Nissan Kicks, K-789012"
+    }
+  ],
+  "total_estimated_amount": 123760.0
+}
